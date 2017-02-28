@@ -57,6 +57,8 @@ dependencies:
 - readline=6.2=2
 - requests=2.13.0=py27_0
 - scandir=1.5=py27_0
+- scikit-learn=0.18.1=np112py27_1
+- scipy=0.18.1=np112py27_1
 - setuptools=27.2.0=py27_0
 - simplegeneric=0.8.1=py27_1
 - singledispatch=3.4.0.3=py27_0

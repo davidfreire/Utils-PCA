@@ -1,2 +1,2 @@
 # Utils-PCA
-Basic PCA decomposition using Numpy
+Basic PCA decomposition using Numpy from scratch and PCA function from sklearn.
